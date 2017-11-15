@@ -1,9 +1,9 @@
 {
   "name": "reading-list",
   "version": "0.0.0",
-  "homepage": "https://github.com/bamos/reading-list",
+  "homepage": "https://github.com/matteoromiti/reading-list",
   "authors": [
-    "Brandon Amos <bamos@cs.cmu.edu>"
+    "Matteo Romiti <matt.romiti@gmail.com>"
   ],
   "license": "MIT",
   "ignore": [
