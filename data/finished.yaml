@@ -15,9 +15,52 @@
   finished: 2012-08-23
   rating: 4
 - author: Philip Guo
-  title: "The Ph.D. Grind"
+  title: "The Ph.D. Grind (PDF)"
   finished: 2017-09-10
   rating: 4
+  quotes:
+    - page: 10
+      content: |
+        As the days passed, I grew more and more frustrated doing what I felt was pure manual labor—just trying to get Klee to work—without any intellectual content. This was the first time in my life that I had ever felt hopelessly overwhelmed by a work assignment. In the past, my summer internship projects were always manageable, and although lots of schoolwork in college was challenging, there was always a correct answer waiting to be discovered. 
+    - page: 11
+      content: |
+        Professors love to repeat the refrain, “If it’s already been done before, then it wouldn’t be research!” For the first time, I viscerally felt the meaning of those words.
+    - page: 11
+      content: |
+        Unlike a regular nine-to-five job (e.g., my summer internships) where I could leave my work at the office and chill every night in front of the television, research was emotionally and mentally all-consuming. I found it almost impossible to shut off my brain and relax in the evenings
+    - page: 13
+      content: |
+        Not only was it physically wearing me out, but it wasn’t even research! What would I write about in our paper—that I had spent nearly 1,000 hours of manual labor getting Klee to work on device drivers without obtaining any real insights? That wasn’t a research contribution; it just sounded foolish.
+    - page: 17
+      content: |
+        I ended up wasting a lot of time and not extracting any meaningful insights from my readings. I also rode my bicycle aimlessly in the neighborhoods around campus in futile attempts to think of new research ideas. Finally, I procrastinated more than I had ever done in my life thus far: I watched lots of TV shows, took many naps, and wasted countless hours messing around online. Unlike my friends with nine-to-five jobs, there was no boss to look over my shoulder day to day, so I let my mind roam free without any structure in my life.
+    - page: 18
+      content: |
+        The wiser course of action during those weeks would have been to talk to Dawson more frequently, and to actively seek out collaborations with other professors or senior students. But back then, I was so burned-out and frustrated with the traditional pecking order of group-based research— putting new Ph.D. students through the meat grinder on the most unglamorous work—that I recoiled and went off on my own.
+    - page: 22
+      content: |
+        Be proactive in talking with professors to find research topics that are mutually interesting, and no matter what, don’t just hole up in isolation.  
+    - page: 37
+      content: |
+        Unlike our peers with regular nine-to-five jobs, there was no immediate pressure for grad students to produce anything tangible—no short-term deadlines to meet or middle managers to please. For most students in my department, nobody would notice or care if they took one day off, so by extension, why not take two days off, a whole week off, or even a whole month off? Therefore, it’s unsurprising that many Ph.D. students who drop out do so around their third year.
+    - page: 47
+      content: |
+        I applied through regular channels by submitting my resume Online submission forms online, and my application was quickly rejected. [...] Online submission forms are black holes. Anything is better than blindly submitting online. [...] Most of my fellow interns also got their jobs through connections, although usually their advisors made a direct recommendation.
+    - page: 88
+      content: |
+        Academic conferences are filled with senior Ph.D. students, postdocs, and pre-tenure professors schmoozing like crazy in attempts to impress their senior colleagues. For these junior researchers, professional networking at conferences is a serious full-time job, since their budding careers and academic reputations depend upon excelling at it. But since I was getting out of this academic game, I didn’t care at all and enjoyed myself without being nervous or calculating.
+    - page: 92
+      content: |
+        I did 72 consecutive days of programming with only 5 days of breaks spread intermittently throughout the 2.5-month sprint. This period was the longest I had ever sustained an almost-painful level of nonstop intensity thus far.
+    - page: 92
+      content: |
+        For those few months, I morphed into an antisocial grump who shunned all distraction and became deeply immersed in my craft. All I thought about was computer code; I could barely speak in coherent English sentences except during my weekly progress meetings with Margo. Even though I appeared and acted subhuman (i.e., an unshaven disheveled mess), my emotional state was blissful. I was programming and debugging for over ten hours per day, but my mind was quite relaxed since my technical skills were well-calibrated for the challenges I faced.
+    - page: 99
+      content: |
+        a Ph.D. program provides a safe environment for certain types of people to push themselves far beyond their mental limits and then emerge stronger as a result. For example, my six years of Ph.D. training have made me wiser, savvier, grittier, and more steely, focused, creative, eloquent, perceptive, and professionally effective than I was as a fresh college graduate.
+    - page: 106
+      content: |
+        This book is named The Ph.D. Grind because there would be no Ph.D. without ten thousand hours of unglamorous, hard-nosed grinding. This journey has taught me that creative ideas mean nothing without the extreme effort to bring them to fruition [...] However, grinding smart is just as important as grinding hard.
 - author: Ashlee Vance
   title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
   finished: 2017-11-02
