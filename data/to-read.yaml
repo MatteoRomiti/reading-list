@@ -1,5 +1,3 @@
-- author: Robert T. Kiyosaki
-  title: "Rich Dad Poor Dad"
 - author: Walter Isaacson
   title: "Einstein: His Life and Universe"
 - author: Ian Leslie
@@ -8,7 +6,17 @@
   title: "Tesla: Inventor of the Electrical Age"
 - author: Randall E. Stross
   title: "The Wizard of Menlo Park: How Thomas Alva Edison Invented the Modern World"
-- author: Maureen O'Hara
-  title: "Something for Nothing: Arbitrage and Ethics on Wall Street"
 - author: Stephen Hawking
   title: "From the Big Bang to Black Holes"
+- author: Robert J. Shiller 
+  title: "Finance and the Good Society"
+- author: Kathryn Schulz 
+  title: "Being Wrong: Adventures in the Margin of Error"
+- author: Jonathan K. Foster
+  title: "Memory: A Very Short Introduction"
+- author: Steven W. Lockley
+  title: "Sleep: A Very Short Introduction"
+- author: Benjamin Graham
+  title: "The Intelligent Investor"
+# - author: Maureen O'Hara
+#   title: "Something for Nothing: Arbitrage and Ethics on Wall Street"
