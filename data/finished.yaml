@@ -14,6 +14,32 @@
   title: "Il vero e il falso"
   finished: 2012-08-23
   rating: 4
+  quotes:
+    - page: 5
+      content: |
+        Per astrologi e CDO [compilatori di oroscopi] è come se Planck non fosse mai nato e le sue scoperte fossero ancora da venire.
+    - page: 97
+      content: |
+        Prendere per buone le figure associate alle costellazioni corrisponde ad annullare distanze enormi e a prendere sul serio la costruzione di un'immagine che non sta su alcun piano
+    - page: 125
+      content: |
+        Se potessimo vivere centomila anni, vedremmo che, nel corso della nostra vita, la stessa data di calendario (ad esempio il 21 marzo) attraverserebbe tutti e dodici i segni zodiacali per ben quattro volte. Potremmo avere due figli che nascono il 21 marzo, ma in millenni diversi, quindi con segni zodiacali diversi. Sarebbe pertanto assurdo legare una data di nascita a un particolare segno zodiacale.
+    - page: 137
+      content: |
+        Chi legge oroscopi e crede nei segni zodiacali, senza saperlo, appartiene alla stessa categoria di persone che credono nella Terra piatta.
+    - page: 167
+      content: |
+        Le vere àncore della nostra esistenza materiale non sono le Stelle, continuamente in moto e perennemente in evoluzione, ma le Leggi Fondamentali della Natura. 
+    - page: 223
+      content: |
+        Se adottassimo il calendario zodiacale avremmo Natale con il solleone e Ferragosto con la neve
+    - page: 263
+      content: |
+       I CDO dovrebbero studiare i raggi cosmici e i neutrini
+- author: Steven W. Lockley
+  title: "Sleep: A Very Short Introduction"
+  finished: 2017-12-25
+  rating: 2
 - author: Robert T. Kiyosaki
   title: "Rich Dad Poor Dad"
   finished: 2017-11-20
