@@ -14,32 +14,92 @@
   title: "Il vero e il falso"
   finished: 2012-08-23
   rating: 4
+- author: Robert J. Shiller
+  title: "Finance and the Good Society"
+  finished: 2018-07-19
+  rating: 3
   quotes:
-    - page: 5
+    - page: 35
       content: |
-        Per astrologi e CDO [compilatori di oroscopi] è come se Planck non fosse mai nato e le sue scoperte fossero ancora da venire.
-    - page: 97
+        Finance is not about “making money” per se. It is a “functional” science in that it exists to support other goals—those of the society. The better aligned a society’s financial institutions are with its goals and ideals, the stronger and more successful the society will be.
+    - page: 37
       content: |
-        Prendere per buone le figure associate alle costellazioni corrisponde ad annullare distanze enormi e a prendere sul serio la costruzione di un'immagine che non sta su alcun piano
+        The real cure for the problem that Marx addressed lies not in destroying the capitalist system but in improving and democratizing it—and improving it means serving the greater goals of the good society. That has always been the best response, to the dismay of radicals.
+    - page: 101
+      content: |
+        We can build beautiful models and theories about what kinds of financial products to provide, but thanks to human foibles we are always vulnerable to bubbles and their bursting.
+    - page: 106
+      content: |
+        Part of traders’ expertise will be in the form of knowledge about how to “take advantage” of others. Only if they understand such things can they survive.
+    - page: 107
+      content: |
+        the system responds not when a treat (say some food) is actually experienced, but when information about it is received.
+    - page: 114
+      content: |
+        expanding the scope of our financial trading is in its essence a route to democratizing finance—by making financial markets more representative of and responsive to our needs—and thus to advancing the central objective of the Occupy Wall Street movement.
+    - page: 115
+      content: |
+        The truth of a world with insurance is decidedly level and even—a truth that many news reporters would like to ignore in their zeal to write engaging and attention-grabbing
+    - page: 116
+      content: |
+        Take for example the 2010 BP oil spill in the Gulf of Mexico, when the Deepwater Horizon oil rig exploded and spilled oil into the gulf for three months. The news media described this as a greater tragedy than it was, disregarding that much of the loss was insured. [...] the clearest economic impact on happiness—on what economists refer to as utility—might come from the ultimate effects on the world economy of the loss of oil. A small part of the world’s oil reserves has been wasted, and so the world might run out of oil, say, a few days sooner a century hence.
+    - page: 120
+      content: |
+        Someday there also could be marketplaces, like futures markets, for career incomes by occupation. If the markets were long term, they would entail price discovery for the career decisions individuals made.
+    - page: 123
+      content: |
+        The “cap and trade” system forces producers of CO 2 emissions to buy permits to emit, as measured in certified emission reduction (CER) units, on an open market. Thus a price is set on emissions, and those producers that can most easily sell will do just that, transferring their permits to others who need them more, for a profit. This mechanism ensures that those businesses that can most efficiently make the adjustment to lower CO 2 emissions will be the ones that do so, minimizing the cost of reducing the emissions.
+    - page: 124
+      content: |
+        Finding a match between husband and wife is like finding a trade in a financial market. It entails learning a market price (in the marriage market it is one’s attractiveness to certain kinds of potential spouses) and finding the best deal at that price.
     - page: 125
       content: |
-        Se potessimo vivere centomila anni, vedremmo che, nel corso della nostra vita, la stessa data di calendario (ad esempio il 21 marzo) attraverserebbe tutti e dodici i segni zodiacali per ben quattro volte. Potremmo avere due figli che nascono il 21 marzo, ma in millenni diversi, quindi con segni zodiacali diversi. Sarebbe pertanto assurdo legare una data di nascita a un particolare segno zodiacale.
-    - page: 137
+        As far back as 1825, a newspaper article noted the profound importance of the search problem: “Experience proves that thousands lead a life of celibacy, not from choice but prudence, and the reason is obvious: it is because of a limited circle of acquaintance, persons of suitable age, disposition and circumstances cannot be found.
+    - page: 126
       content: |
-        Chi legge oroscopi e crede nei segni zodiacali, senza saperlo, appartiene alla stessa categoria di persone che credono nella Terra piatta.
-    - page: 167
+        Finding a match is an intrinsically difficult market problem. Depending on the relative abundance of those with certain characteristics, people may search for years for a suitable match when their problem is simply not knowing what level of success to expect. They may remain celibate their entire lives not just because [...] there is a shortage of available acquaintances, but also because they may have misjudged the available supply of people with the characteristics they desire. That problem might be called, in purely financial terms, a problem of price discovery.
+    - page: 134
       content: |
-        Le vere àncore della nostra esistenza materiale non sono le Stelle, continuamente in moto e perennemente in evoluzione, ma le Leggi Fondamentali della Natura. 
-    - page: 223
+        Arrow argued that a major source of economic inefficiency is the absence of markets for risks.
+    - page: 134
       content: |
-        Se adottassimo il calendario zodiacale avremmo Natale con il solleone e Ferragosto con la neve
-    - page: 263
+        there are few or no derivatives for such key economic variables as GDP, wage rates, real estate prices, health care expenses, or average lifespans.
+    - page: 147
       content: |
-       I CDO dovrebbero studiare i raggi cosmici e i neutrini
-- author: Steven W. Lockley
-  title: "Sleep: A Very Short Introduction"
-  finished: 2017-12-25
-  rating: 2
+        Levitt details how business people recruited congressmen to battle the regulations imposed by the SEC, and even to threaten him personally for failing to accede to their demands.
+    - page: 149
+      content: |
+        According to the U.S. Congressional Budget Office, for the 1% of the population with the highest income, average real after-tax income grew 275% between 1979 and 2007—quite a dramatic increase. Over the same interval, Americans with income in the bottom 20% of the population saw only an 18% increase.
+    - page: 152
+      content: |
+        Legislators need lobbyists, for there is no way that they can fully assess how their legislation affects various interest groups in society unless informed representatives of these groups convey the appropriate information to them.
+    - page: 155
+      content: |
+        Political scientist Larry Bartels [...] found that people in the bottom third of the income distribution have virtually no impact on the voting of their representatives in the U.S. Congress, compared with those in the middle and top thirds.
+    - page: 155
+      content: |
+        We need somehow to encourage lobbying activities on behalf of under-served groups. And subsidizing public interest lobbying on behalf of the currently voiceless is a good cause for philanthropists
+    - page: 168
+      content: |
+        Many teachers seemed to inculcate the extreme view that markets are perfectly efficient. From this view many of their students drew the conclusion that it hardly matters ethically what one does in business, since nothing one could do would ever disturb this magnificent equilibrium.
+    - page: 183
+      content: |
+        Given that central bankers already had prodigious research departments at their disposal and regularly attended international conferences, yet had hardly any clue about the present crisis, there is plenty of room for skepticism that they will succeed.
+    - page: 202
+      content: |
+        Eliminating private property under traditional communism was like treating anxiety with a lobotomy. Indeed we cannot go back to a simpler, older, kind of civilization. We can only move forward.
+    - page: 203
+      content: |
+        The fact that the real world of financial capitalism is so often messy and inhuman, and that it involves so much hypocrisy and manipulation, may detract from this sense of beauty. But the same is true of nature: for all its beauty, it produces ugly things as well.
+    - page: 204
+      content: |
+        prices in different markets are just different manifestations of a deep underlying truth. The apparently meaningless jiggles in financial market prices are reflective of powerful forces. The accumulation through time of these small price changes amounts to a result that is not random but that instead provides discovery of true economic value—a value that is highly useful in the allocation of economic resources and in generating our livelihoods.
+    - page: 205
+      content: |
+        government deficit spending to stimulate the economy is in a sense a trick, for savvy taxpayers will know that any such expenditure needs to be followed by increased taxes to pay back the debt.
+    - page: 231
+      content: |
+        In the United States in 2008, on the eve of the crisis, there were five credit cards per person, while in China there were thirty-three persons per credit card.
 - author: Robert T. Kiyosaki
   title: "Rich Dad Poor Dad"
   finished: 2017-11-20

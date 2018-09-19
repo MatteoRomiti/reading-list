@@ -1,15 +1,19 @@
-- author: Walter Isaacson
-  title: "Einstein: His Life and Universe"
+# - author: Walter Isaacson
+#   title: "Einstein: His Life and Universe"
+- author: Hans Rosling
+  title: Factfulness
+- author: Dale Carnegie
+  title: How to Win Friends and Influence People
 - author: Ian Leslie
   title: Curious
-- author: W. Bernard Carlson
-  title: "Tesla: Inventor of the Electrical Age"
-- author: Randall E. Stross
-  title: "The Wizard of Menlo Park: How Thomas Alva Edison Invented the Modern World"
-- author: Stephen Hawking
-  title: "From the Big Bang to Black Holes"
-- author: Robert J. Shiller 
-  title: "Finance and the Good Society"
+# - author: W. Bernard Carlson
+#   title: "Tesla: Inventor of the Electrical Age"
+# - author: Randall E. Stross
+#   title: "The Wizard of Menlo Park: How Thomas Alva Edison Invented the Modern World"
+# - author: Stephen Hawking
+#   title: "From the Big Bang to Black Holes"
+# - author: Robert J. Shiller 
+#   title: "Finance and the Good Society"
 - author: Kathryn Schulz 
   title: "Being Wrong: Adventures in the Margin of Error"
 - author: Benjamin Graham
