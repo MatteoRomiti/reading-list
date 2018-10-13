@@ -2,6 +2,14 @@
   title: "Der Fall Collini"
   finished: 2015-03-17
   rating: 3
+- author: Joachim Gauck
+  title: "Joachim Gauck, Reden und Interviews"
+  finished: 2014-11-12
+  rating: 3
+- author: Andreas Antonopoulos
+  title: "Mastering Bitcoin"
+  finished: 2018-01-02
+  rating: 5
 - author: Drew Chapman
   title: "Der Analyst"
   finished: 2015-12-29
@@ -14,6 +22,119 @@
   title: "Il vero e il falso"
   finished: 2012-08-23
   rating: 4
+- author: Dale Carnegie
+  title: How to Win Friends and Influence People
+  finished: 2018-10-13
+  rating: 3
+  quotes:
+    - page: 8 
+      content: |
+        about 15 percent of one’s financial success is due to one’s technical knowledge and about 85 percent is due to skill in human engineering—to personality and the ability to lead people.
+    - page: 9
+      content: |
+        the person who has technical knowledge plus the ability to express ideas, to assume leadership, and to arouse enthusiasm among people—that person is headed for higher earning power.
+    - page: 16
+      content: |
+        when you are displeased, it is much easier to criticize and condemn than it is to try to understand the other person’s viewpoint; it is frequently easier to find fault than to find praise; it is more natural to talk about what you want than to talk about what the other person wants;
+    - page: 17
+      content: |
+        Offer your spouse, your child or some business associate a dime or a dollar every time he or she catches you violating a certain principle.
+    - page: 23
+      content: |
+        B. F. Skinner, the world-famous psychologist, proved through his experiments that an animal rewarded for good behavior will learn much more rapidly and retain what it learns far more effectively than an animal punished for bad behavior. Later studies have shown that the same applies to humans.
+    - page: 30
+      content: |
+        Any fool can criticize, condemn and complain—and most fools do. But it takes character and self-control to be understanding and forgiving.
+    - page: 31
+      content: |
+        But Hoover didn’t scold the mechanic; he didn’t even criticize him. Instead, he put his big arm around the man’s shoulder and said, “To show you I’m sure that you’ll never do this again, I want you to service my F-51
+    - page: 34
+      content: |
+        Instead of condemning people, let’s try to understand them. Let’s try to figure out why they do what they do. That’s a lot more profitable and intriguing than criticism; and it breeds sympathy, tolerance and kindness.
+    - page: 35
+      content: |
+        Lincoln once began a letter saying: “Everybody likes a compliment.” William James said: “The deepest principle in human nature is the craving to be appreciated.”
+    - page: 41
+      content: |
+        When a study was made a few years ago on runaway wives, what do you think was discovered to be the main reason wives ran away? It was “lack of appreciation.” And I’d bet that a similar study made of runaway husbands would come out the same way.
+    - page: 44
+      content: |
+        In the long run, flattery will do you more harm than good. Flattery is counterfeit, and like counterfeit money, it will eventually get you into trouble if you pass it to someone else.
+    - page: 52
+      content: |
+        “If there is any one secret of success,” said Henry Ford, “it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own.”
+    - page: 65
+      content: |
+        You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.
+    - page: 76
+      content: |
+        Become genuinely interested in other people.
+    - page: 77
+      content: |
+        Charles Schwab told me his smile had been worth a million dollars.
+    - page: 77
+      content: |
+        the baby just looked up at him with that great big smile that is so characteristic of babies. What did that gentleman do? Just what you and I would do, of course; he smiled back at the baby.
+    - page: 80
+      content: |
+        force yourself to smile. If you are alone, force yourself to whistle or hum a tune or sing. Act as if you were already happy, and that will tend to make you happy.
+    - page: 83
+      content: |
+        [Smiling] costs nothing, but creates much. It enriches those who receive, without impoverishing those who give. It happens in a flash and the memory of it sometimes lasts forever. [...] Yet it cannot be bought, begged, borrowed, or stolen, for it is something that is no earthly good to anybody till it is given away.
+    - page: 92
+      content: |
+        Remember that a person’s name is to that person the sweetest and most important sound in any language.
+    - page: 102
+      content: |
+        To be interesting, be interested. Ask questions that other persons will enjoy answering. Encourage them to talk about themselves and their accomplishments.
+    - page: 107
+      content: |
+        If we are so contemptibly selfish that we can’t radiate a little happiness and pass on a bit of honest appreciation without trying to get something out of the other person in return—if our souls are no bigger than sour crab apples, we shall meet with the failure we so richly deserve. [...] The law is this: Always make the other person feel important
+    - page: 112
+      content: |
+        So he looked around the house to see what he could honestly admire.
+    - page: 120
+      content: |
+        I have come to the conclusion that there is only one way under high heaven to get the best of an argument—and that is to avoid it. Avoid it as you would avoid rattlesnakes and earthquakes. Nine times out of ten, an argument ends with each of the contestants more firmly convinced than ever that he is absolutely right.
+    - page: 121
+      content: |
+        If you argue and rankle and contradict, you may achieve a victory sometimes; but it will be an empty victory because you will never get your opponent’s good will.
+    - page: 124
+      content: |
+        “My wife and I made a pact a long time ago, and we’ve kept it no matter how angry we’ve grown with each other. When one yells, the other should listen—because when two people yell, there is no communication, just noise and bad vibrations.”
+    - page: 126
+      content: |
+        If you can be sure of being right only 55 percent of the time, you can go down to Wall Street and make a million dollars a day.
+    - page: 126
+      content: |
+        Be wiser than other people if you can; but do not tell them so.
+    - page: 128
+      content: |
+        We sometimes find ourselves changing our minds without any resistance or heavy emotion, but if we are told we are wrong, we resent the imputation and harden our hearts.
+    - page: 131
+      content: |
+        “I made it a rule,” said Franklin, “to forbear all direct contradiction to the sentiment of others, and all positive assertion of my own. I even forbade myself the use of every word or expression in the language that imported a fix’d opinion, such as ‘certainly,’ ‘undoubtedly,’ etc., and I adopted, instead of them, ‘I conceive,’ ‘I apprehend,’ or ‘I imagine’
+    - page: 133
+      content: |
+        “I am convinced now that nothing good is accomplished and a lot of damage can be done if you tell a person straight out that he or she is wrong. You only succeed in stripping that person of self-dignity and making yourself an unwelcome part of any discussion.”
+    - page: 150
+      content: |
+        gentleness and friendliness were always stronger than fury and force.
+    - page: 163
+      content: |
+        Isn’t it wiser to make suggestions—and let the other person think out the conclusion?
+    - page: 190
+      content: |
+        “The way to get things done,” says Schwab, “is to stimulate competition. I do not mean in a sordid, money-getting way, but in the desire to excel.”
+    - page: 208
+      content: |
+        Talk about your own mistakes before criticizing the other person.
+    - page: 210
+      content: |
+        People are more likely to accept an order if they have had a part in the decision that caused the order to be issued.
+    - page: 229
+      content: |
+        Use encouragement. Make the fault seem easy to correct.
 - author: Hans Rosling
   title: "Factfulness"
   finished: 2018-09-22

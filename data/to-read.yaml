@@ -1,11 +1,15 @@
 # - author: Walter Isaacson
 #   title: "Einstein: His Life and Universe"
-- author: Dale Carnegie
-  title: How to Win Friends and Influence People
+# - author: Andreas Antonopoulos and Gavin Wood
+#   title: Mastering Ethereum
 - author: Ian Leslie
   title: Curious
 - author: Bryan Caplan
   title: The Case Against Education
+# - author: Yuval Noah Harari
+#   title: "Sapiens: a brief history of humankind"
+- author: Ray Dalio
+  title: "Principles: Life and Work"
 # - author: W. Bernard Carlson
 #   title: "Tesla: Inventor of the Electrical Age"
 # - author: Randall E. Stross
